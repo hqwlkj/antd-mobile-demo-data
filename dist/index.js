@@ -41777,10 +41777,10 @@ var district = [
         "value": "710000",
         "divisionLevel": "2",
         "pinyin": "tai wan sheng",
-        "label": "台湾",
-        "divisionTname": "臺灣",
+        "label": "台湾省",
+        "divisionTname": "臺灣省",
         "divisionId": "710000",
-        "divisionAbbName": "台湾",
+        "divisionAbbName": "台湾省",
         "isdeleted": "false",
         "parentId": "1",
         "children": [
